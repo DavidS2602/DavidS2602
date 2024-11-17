@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm David
 
 <!--
 **DavidS2602/DavidS2602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
